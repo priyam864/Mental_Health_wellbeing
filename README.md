@@ -16,15 +16,23 @@ This project delves into mental health patterns among students aged 18–32 usin
 
 ## 🗂 Project Structure
 ```plaintext
-MentalHealthWellbeing/
-├── README.md                   # Project description
-├── MentalHealth_Cleaned.csv     # Cleaned dataset
-├── MentalHealth_Survey_Raw.xlsx # Raw survey data
-├── MentalHealth_Dashboard.pbix  # Power BI dashboard file
-├── dashboard.pdf               # PDF version of the dashboard
-├── Project_planing.jpg         # Project planning image
-├── system_architecture_design.jpg  # System architecture design
-├── use_case_diagram.jpg        # Use case diagram image
+Mental_Health_Dashboard/
+├── data/
+│   ├── MentalHealth_Survey_Raw.xlsx      # Raw survey data
+│   ├── MentalHealth_Cleaned.csv          # Cleaned dataset
+│   └── dashboard.pdf                     # PDF containing dashboard visuals
+├── code/
+│   ├── Mental_Health_Python_Code.py      # Python script for data preprocessing
+│   ├── Mental_Health_SQL_Queries.sql     # SQL queries for data analysis
+│   ├── Mental_Health_VBA_Code.vba        # VBA macros for Excel processing
+│   └── Star_Schema_Creation.sql          # SQL script for star schema creation
+├── visuals/
+│   ├── system_architecture_design.jpg    # System architecture diagram
+│   ├── use_case_diagram.jpg              # Use case diagram
+│   └── Project_planing.jpg               # Project planning timeline
+├── MentalHealth_Dashboard.pbix           # Power BI dashboard file
+├── README.md                             # Project overview and instructions
+
 ```
 
 ---
