@@ -37,3 +37,43 @@ MentalHealthWellbeing/
 │   └── key_insights_chart.png        # Key insights visualization
 └── presentation/
     └── MentalHealth_Presentation.pdf # Presentation slides
+📂 Datasets
+Source: Data was collected through Google Forms, capturing responses on anxiety, stress, coping mechanisms, and emotional well-being.
+Processing: Raw data was cleaned, transformed, and normalized using Excel (VBA) and Python.
+🔍 Key Insights
+Younger individuals (18–25 years) experience higher anxiety levels due to academic and career pressures.
+Physical activity, balanced diets, and social support correlate positively with mental well-being.
+Female participants report higher anxiety, while male participants have higher substance use.
+Regular sleep patterns significantly improve mental health ratings.
+💻 How to Use
+Clone this repository:
+bash
+Copy code
+git clone https://github.com/your-username/MentalHealthWellbeing.git
+Navigate to the repository folder:
+bash
+Copy code
+cd MentalHealthWellbeing
+View the final report: Open MentalHealthWellbeing_Report.pdf.
+Explore the dataset in the datasets/ folder.
+Run Python scripts for data analysis:
+bash
+Copy code
+python code/data_preprocessing.py
+python code/visualizations.py
+Open the Power BI dashboard (MentalHealth_Dashboard.pbix) to explore interactive visualizations.
+📈 Dashboards
+Overview
+
+Key Insights
+
+🚀 Future Work
+Expand the dataset to include diverse populations and regions.
+Incorporate machine learning models for predictive insights.
+Develop mobile apps or tools for real-time mental health tracking.
+
+📝 License
+This project is licensed under the MIT License.
+
+📬 Contact
+For queries, contact Priyam Kumari.
