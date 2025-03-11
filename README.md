@@ -30,8 +30,7 @@ Mental_Health_Dashboard/
 │   ├── system_architecture_design.jpg    # System architecture diagram
 │   ├── use_case_diagram.jpg              # Use case diagram
 │   └── Project_planing.jpg               # Project planning timeline
-├── MentalHealth_Dashboard.pbix           # Power BI dashboard file
-├── README.md                             # Project overview and instructions
+├── MentalHealth_Dashboard.pbix           # Power BI dashboard file                          # Project overview and instructions
 
 ```
 
